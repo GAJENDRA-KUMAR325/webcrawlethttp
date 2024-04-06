@@ -1,0 +1,6 @@
+A text file is a file containing text, but there are several ways to think about that, 
+so it's important to know the kind of text document you have before dealing with a program 
+that can open or convert it.
+A text file contains just text (versus other content like images).
+Open one with any text editor, such as Notepad or TextEdit.
+Convert to other text-based formats with Notepad++ and similar tools.
